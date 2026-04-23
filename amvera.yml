@@ -1,0 +1,4 @@
+amvera:
+  python:
+    version: 3.11.9
+    command: "bot_about_sports.py" # Команда запуска бота
